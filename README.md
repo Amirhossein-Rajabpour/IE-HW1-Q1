@@ -26,7 +26,7 @@ A sample for inputs: <br>
 <br>
 A sample run with GUI (Level 8):
 
-<img src="https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/sample_run_level8.gif" />
+<img src="https://github.com/Amirhossein-Rajabpour/IE-HW1-Q1/blob/main/sample_run_level8.gif" />
 
 
 Check full description (in persian): [here](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/AI_P2.pdf)
