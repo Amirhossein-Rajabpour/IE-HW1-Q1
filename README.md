@@ -22,14 +22,13 @@ A sample for inputs: <br>
 
 
 ![alt text](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample%20run%20l9.jpg "sample run")
-<img src="https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample%20run%20l9.jpg" />
 
 
 <br>
 A sample run with GUI (Level 8):
 
 
-![alt text](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample_run_level8.gif)
+<img src="https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample_run_level8.gif" />
 
 
 Check full description (in persian): [here](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/AI_P2.pdf)
