@@ -20,13 +20,11 @@ that you can choose from. Also you can the number of `initial population` and `m
 <br>
 A sample for inputs: <br>
 
-
-![alt text](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample%20run%20l9.jpg "sample run")
+<img src="https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample%20run%20l9.jpg" />
 
 
 <br>
 A sample run with GUI (Level 8):
-
 
 <img src="https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm/blob/main/sample_run_level8.gif" />
 
